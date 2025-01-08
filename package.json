@@ -5,7 +5,8 @@
   "description": "Discord Bot Kannatan",
   "main": "src/main.ts",
   "scripts": {
-    "start": "tsx src/main.ts"
+    "start": "tsx src/main.ts",
+    "lint": "eslint . --fix"
   },
   "repository": {
     "type": "git",
