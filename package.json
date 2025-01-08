@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/endrika73/kannatan-bot#readme",
   "dependencies": {
+    "@types/node": "^22.10.5",
+    "dotenv": "^16.4.7",
     "tsx": "^4.19.2"
   },
   "devDependencies": {
