@@ -4,7 +4,9 @@
   "type": "module",
   "description": "Discord Bot Kannatan",
   "main": "src/main.ts",
-  "scripts": {},
+  "scripts": {
+    "start": "tsx src/main.ts"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/endrika73/kannatan-bot.git"
