@@ -1,0 +1,24 @@
+{
+  "name": "kannatan-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Discord Bot Kannatan",
+  "main": "src/main.ts",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endrika73/kannatan-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "kannatan"
+  ],
+  "author": "Endrika Nanami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/endrika73/kannatan-bot/issues"
+  },
+  "homepage": "https://github.com/endrika73/kannatan-bot#readme"
+}
