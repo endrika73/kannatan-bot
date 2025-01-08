@@ -11,7 +11,7 @@ import "dotenv/config";
 import { Client, GatewayIntentBits } from "discord.js";
 import { registerEvents } from "./events";
 
-const token = process.env.DISCORD_TOKEN;
+const token = process.env.BOT_TOKEN;
 
 // Create a new client instance
 const client = new Client({
